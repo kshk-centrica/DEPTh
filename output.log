@@ -1,0 +1,3 @@
+The following errors were detected in danger.pem
+	 The file name "danger.pem" failed checks against the pattern ^.+\.pem$
+
