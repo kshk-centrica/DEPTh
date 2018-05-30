@@ -1,3 +1,3 @@
-The following errors were detected in danger.pem
-	 The file name "danger.pem" failed checks against the pattern ^.+\.pem$
+The following errors were detected in output.log
+	 The file name "output.log" failed checks against the pattern ^.*\.log$
 
